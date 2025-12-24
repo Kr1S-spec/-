@@ -120,4 +120,16 @@ iframe {
 
 .gallery img:hover{
     transform: scale(1.2)
+
+}
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-logo img {
+  width: 100px;
+  height: 48px;
+  object-fit: contain;
 }
